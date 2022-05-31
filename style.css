@@ -1,0 +1,120 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background:#F3F5FC;
+}
+.container{
+    margin: auto;
+    padding: 5px;
+    background:#E5E5E5;
+    width: 960px;
+    height: 650px;
+
+}
+.logo{
+    
+    width: 100%;
+    float: left;
+    
+}
+.left{
+    
+    width: 70%;
+    height: 61%;
+    float: left;
+    border-radius: 24px;
+}
+.right{
+    
+    width: 30%;
+    height: auto;
+    float: right;
+    border-radius: 24px;
+}
+.left-buttom{
+    
+    width: 70%;
+    height: auto;
+    float: left;
+    border-radius: 24px;
+} 
+
+.logoIMG{
+    margin-top:6px;
+    margin-left: 6px;
+    float: inherit;
+    
+}
+.logotitle{
+    margin-left: 140px;
+    float: inherit;
+}
+
+.InputText{
+    margin-top: 10%;
+    margin-left: 10%;
+    float: left;
+    width: 80%;
+    height: 80%;
+    color: #0A3871;
+    font-size: 20px;
+    border: none;
+    outline: none;
+    background:#F3F5FC;
+}
+#imgMunheco{
+    width: 80%;
+    height: auto;
+    margin-right: 10%;
+    margin-top: 12%;
+}
+#txt1Munheco{
+    margin-left: 10%;
+    margin-top: 12%;
+}
+#txt2Munheco{
+    margin-top: 10%;
+    margin-left: 10%;
+    float: left;
+    width: 80%;
+    height: 60%;
+    color: #0A3871;
+    font-size: 15px;
+    border: none;
+    outline: none;
+    background:#F3F5FC;
+}
+
+#btn-encriptar{
+    margin-left:15%;
+    padding: 24px;
+    width: 30%;
+    height: 60%;
+    border-radius: 24px;
+    background:#0A3871;
+}
+#btn-desencriptar{
+    margin-left:10%;
+    padding: 24px;
+    width: 30%;
+    height: 60%;
+    border-radius: 24px;
+    background:#D8DFE8;
+}
+
+#btn-copiar{
+    margin-left:10%;
+    padding: 24px;
+    width: 30%;
+    height: 60%;
+    border-radius: 24px;
+    background:#D8DFE8;
+    display: none;
+}
+.footer{
+    float:left;
+    margin-left: 33%;
+    margin-top: 2%;
+    margin-bottom: 16%;
+    height: 20%;
+}
